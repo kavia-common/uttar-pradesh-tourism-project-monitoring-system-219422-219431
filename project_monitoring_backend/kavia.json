@@ -1,0 +1,7 @@
+{
+  "name": "project-monitoring-backend",
+  "type": "spring-boot",
+  "start": "bash start.sh",
+  "port": 3001,
+  "notes": "Primary start is via Procfile -> web: bash start.sh. This file provides fallback start metadata for preview."
+}
