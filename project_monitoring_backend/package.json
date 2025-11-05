@@ -4,6 +4,6 @@
   "version": "0.0.1",
   "description": "UP Tourism Project Monitoring Backend - start command helper for preview environment",
   "scripts": {
-    "start": "mvn -DskipTests spring-boot:run"
+    "start": "bash ./start.sh"
   }
 }
